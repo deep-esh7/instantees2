@@ -61,7 +61,7 @@ SELECT * from catagory where subcid='${param.id}';
         <div class="container">
           <div class="content-center">
             <div class="cc-profile-image"><a href="#"><img src="./images/Artboard 1 copy 2-100.jpg" alt="Image"/></a></div>
-            <div class="h2 title">EVENTS</div>
+            <div class="h2 title">${param.name}</div>
             <p class="category text-white">CREATE YOUR EVENT WITH US</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Discover</a></a>
           </div>
         </div>
@@ -80,13 +80,7 @@ SELECT * from catagory where subcid='${param.id}';
 
 
 <div class="section" id="about">
-<center>       <h1>
-
-<u>
-
-${table.subc}</h1>
-</u>
- </center> <br><br><br>
+ <br><br><br>
   <div class="container">
     <div class="card" data-aos="fade-up" data-aos-offset="1">
       <div class="row">

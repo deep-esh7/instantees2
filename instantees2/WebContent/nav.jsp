@@ -57,18 +57,18 @@
   <button class="dropbtn"><img src="./images/Artboard 1 copy 2-100.jpg" height="90%" width="90%"></button>
   
   <div class="dropdown-content">
-    <a href="education.jsp?id=1">Gate Coaching</a>
-    <a href="education.jsp?id=2">MBA</a>
-    <a href="education.jsp?id=3">IAS</a>
-    <a href="education.jsp?id=4"> Call Center and BPO</a>
-    <a href="education.jsp?id=5">Communication Skills</a>
-    <a href="education.jsp?id=6">Soft Skills</a>
-    <a href="education.jsp?id=7">Taxation </a>
-    <a href="education.jsp?id=8">Team Building Training</a>
+    <a href="education.jsp?id=1&name=GATE COACHING">Gate Coaching</a>
+    <a href="education.jsp?id=2&name=MBA">MBA</a>
+    <a href="education.jsp?id=3&name=IAS">IAS</a>
+    <a href="education.jsp?id=4&name=Call Center and BPO"> Call Center and BPO</a>
+    <a href="education.jsp?id=5&name=Communication Skills">Communication Skills</a>
+    <a href="education.jsp?id=6&name=Soft Skills">Soft Skills</a>
+    <a href="education.jsp?id=7&name=Taxation">Taxation </a>
+    <a href="education.jsp?id=8&name=Team Building Training">Team Building Training</a>
     
-    <a href="education.jsp?id=9">Stress Management Training</a>
-    <a href="education.jsp?id=10">Yoga Classes</a>
-    <a href="education.jsp?id=11">Personality Building</a>
+    <a href="education.jsp?id=9&name=Stress Management Training">Stress Management Training</a>
+    <a href="education.jsp?id=10&name=Yoga Classes">Yoga Classes</a>
+    <a href="education.jsp?id=11&name=Personality Building">Personality Building</a>
   </div>
 </div>
 
@@ -78,15 +78,15 @@
   <button class="dropbtn"><img src="./images/Artboard 1-100.jpg" height="90%" width="90%"></button>
   
   <div class="dropdown-content">
-    <a href="party.jsp?id=12">Event Planning</a>
-    <a href="party.jsp?id=13">Event Management</a>
-    <a href="party.jsp?id=14">Party </a>
-    <a href="party.jsp?id=15">Decorator</a>
-    <a href="party.jsp?id=16">Birthday Party</a>
-    <a href="party.jsp?id=17">Stage Decorator</a>
-    <a href="party.jsp?id=18">  Kitty Party</a>
-    <a href="party.jsp?id=19">Seminar</a>
-    <a href="party.jsp?id=20">Product Launch</a>
+    <a href="party.jsp?id=12&name=SEvent Planning">Event Planning</a>
+    <a href="party.jsp?id=13&name=Event Management">Event Management</a>
+    <a href="party.jsp?id=14&name=Party">Party </a>
+    <a href="party.jsp?id=15&name=Decorator">Decorator</a>
+    <a href="party.jsp?id=16&name=Birthday Party">Birthday Party</a>
+    <a href="party.jsp?id=17&name=Stage Decorator">Stage Decorator</a>
+    <a href="party.jsp?id=18&name=Kitty Party">  Kitty Party</a>
+    <a href="party.jsp?id=19&name=Seminar">Seminar</a>
+    <a href="party.jsp?id=20&name=Product Launch">Product Launch</a>
   </div>
 </div>
 
