@@ -11,7 +11,8 @@
 
 <center>	<h1>PLEASE SELECT CATEGORY</h1><BR>
 	
-	<a href="./educationpanel.jsp">EDUCATION CATEGORY PANEL</a></center>
+	<a href="./educationpanel.jsp">EDUCATION CATEGORY PANEL</a><BR>
+	<a href="./partypanel.jsp">EVENTS CATEGORY PANEL</a></center>
 </body>
 </html>
 </body>

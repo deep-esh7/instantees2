@@ -78,15 +78,15 @@
   <button class="dropbtn"><img src="./images/Artboard 1-100.jpg" height="90%" width="90%"></button>
   
   <div class="dropdown-content">
-    <a href="#">Event Planning</a>
-    <a href="#">Event Management</a>
-    <a href="#">Party </a>
-    <a href="#">Decorator</a>
-    <a href="#">Birthday Party</a>
-    <a href="#">Stage Decorator</a>
-    <a href="#">  Kitty Party</a>
-    <a href="#">Seminar</a>
-    <a href="#">Product Launch</a>
+    <a href="party.jsp?id=12">Event Planning</a>
+    <a href="party.jsp?id=13">Event Management</a>
+    <a href="party.jsp?id=14">Party </a>
+    <a href="party.jsp?id=15">Decorator</a>
+    <a href="party.jsp?id=16">Birthday Party</a>
+    <a href="party.jsp?id=17">Stage Decorator</a>
+    <a href="party.jsp?id=18">  Kitty Party</a>
+    <a href="party.jsp?id=19">Seminar</a>
+    <a href="party.jsp?id=20">Product Launch</a>
   </div>
 </div>
 

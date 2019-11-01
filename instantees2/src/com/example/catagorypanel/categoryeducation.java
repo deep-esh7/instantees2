@@ -12,6 +12,7 @@ import javax.servlet.http.HttpSession;
 
 import com.example.catagorypanel.categoryeducation2;
 @WebServlet("/education")
+
 public class categoryeducation extends HttpServlet {
 
 	categoryeducation2 service = null;
