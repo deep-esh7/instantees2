@@ -97,15 +97,15 @@
   <button class="dropbtn"><img src="./images/Artboard 1 copy-100.jpg" height="90%" width="90%"></button>
   
   <div class="dropdown-content">
-    <a href="#">Non-Veg</a>
-    <a href="#">Veg</a>
-    <a href="#">Starter</a>
-    <a href="#">Drinks</a>
-    <a href="#">Cake</a>
-    <a href="#">Breads</a>
-    <a href="#">Party</a>
-    <a href="#">Fruits</a>
-    <a href="#">Chinese</a>
+    <a href="food.jsp?id=21&name=NON-VEG">Non-Veg</a>
+    <a href="food.jsp?id=22&name=VEG">Veg</a>
+    <a href="food.jsp?id=23&name=Starter">Starter</a>
+    <a href="food.jsp?id=24&name=Drinks">Drinks</a>
+    <a href="food.jsp?id=25&name=Cake">Cake</a>
+    <a href="food.jsp?id=26&name=Breads">Breads</a>
+   
+    <a href="food.jsp?id=27&name=Fruits">Fruits</a>
+    <a href="food.jsp?id=28&name=Chinese">Chinese</a>
   </div>
 </div>
 
@@ -117,13 +117,13 @@
   <button class="dropbtn"><img src="./images/Artboard 1 copy 3-100.jpg" height="90%" width="90%"></button>
   
   <div class="dropdown-content">
-    <a href="#">Insurance</a>
-    <a href="#">Taxation</a>
-    <a href="#">Workers</a>
-    <a href="#">Consultations</a>
-    <a href="#">Loans</a>
-    <a href="#">Travel</a>
-    <a href="#">Party planner</a>
+    <a href="investment.jsp?id=29&name=Insurance">Insurance</a>
+    <a href="investment.jsp?id=30&name=Taxation">Taxation</a>
+    <a href="investment.jsp?id=31&name=Workers">Workers</a>
+    <a href="investment.jsp?id=32&name=Consultations">Consultations</a>
+    <a href="investment.jsp?id=33&name=Loans">Loans</a>
+    <a href="investment.jsp?id=34&name=Travel">Travel</a>
+    <a href="investment.jsp?id=35&name=Party planner">Party planner</a>
   </div>
 </div>
 
@@ -134,15 +134,15 @@
   <button class="dropbtn"><img src="./images/Artboard 1 copy 4-100.jpg" height="90%" width="90%"></button>
   
   <div class="dropdown-content">
-    <a href="#">Civil Lawyer</a>
-    <a href="#">Coporate</a>
-    <a href="#">Criminal</a>
-    <a href="#">Life Insurance</a>
-    <a href="#">Buisness</a>
-    <a href="#">Gold</a>
-    <a href="#">Travel</a>
-    <a href="#">Project Management</a>
-    <a href="#">Advertisement</a>
+    <a href="travel.jsp?id=36&name=Civil Lawyer">Civil Lawyer</a>
+    <a href="travel.jsp?id=37&name=Coporate">Coporate</a>
+    <a href="travel.jsp?id=38&name=Criminal">Criminal</a>
+    <a href="travel.jsp?id=39&name=Life Insurance">Life Insurance</a>
+    <a href="travel.jsp?id=40&name=Buisness">Buisness</a>
+    <a href="travel.jsp?id=41&name=Gold">Gold</a>
+    <a href="travel.jsp?id=42&name=Travel">Travel</a>
+    <a href="travel.jsp?id=43&name=Project Management">Project Management</a>
+    <a href="travel.jsp?id=44&name=Advertisement">Advertisement</a>
   </div>
 </div>
 
@@ -152,15 +152,15 @@
   <button class="dropbtn"><img src="./images/Artboard 1 copy 5-100.jpg" height="90%" width="90%"></button>
   
   <div class="dropdown-content">
-    <a href="#">Properties</a>
-    <a href="#">For Sale</a>
-    <a href="#">Flats</a>
-    <a href="#">Plots</a>
-    <a href="#">Office Area</a>
-    <a href="#">Industrail  </a>
-    <a href="#">Warehouse</a>
-    <a href="#">Villa</a>
-    <a href="#">Upcoming</a>
+    <a href="properties.jsp?id=45&name=Properties">Properties</a>
+    <a href="properties.jsp?id=46&name=For Sale">For Sale</a>
+    <a href="properties.jsp?id=47&name=Flats">Flats</a>
+    <a href="properties.jsp?id=48&name=Plots">Plots</a>
+    <a href="properties.jsp?id=49&name=Office Area">Office Area</a>
+    <a href="properties.jsp?id=50&name=Industrail">Industrail  </a>
+    <a href="properties.jsp?id=51name=Warehouse">Warehouse</a>
+    <a href="properties.jsp?id=52&name=Villa">Villa</a>
+    <a href="properties.jsp?id=53&name=Upcoming">Upcoming</a>
   </div>
 </div>
 
