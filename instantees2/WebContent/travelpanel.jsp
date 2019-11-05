@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+<center><jsp:include page="header2.jsp"></jsp:include><%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
@@ -106,16 +106,16 @@ SELECT CATEGORY:
 </select><br>
 
 Category ID: <select name="list2">
- <option  value="29">37</option>
-  <option  value="30">38</option>
-  <option value="31">39</option>
-  <option  value="32">40</option>
-  <option value="33">41</option>
-  <option  value="34">42</option>
-  <option  value="35">43</option>
-  <option  value="36">44</option>
-    <option  value="35">45</option>
-  <option  value="36">46</option>
+ <option  value="36">36</option>
+  <option  value="37">37</option>
+  <option value="38">38</option>
+  <option  value="39">39</option>
+  <option value="40">40</option>
+  <option  value="41">41</option>
+  <option  value="42">42</option>
+  <option  value="43">43</option>
+    <option  value="44">44</option>
+  <option  value="45">45</option>
    
         
 </select><br>
@@ -125,15 +125,16 @@ Category ID: <select name="list2">
   
    <center><font color="red">PLEASE ENTER DATA ACCORDING TO CATEGORY ID:
    
-   <BR>    <H1> 12:  <BR>
-   13: EVENT MANAGEMENT<BR>
-   14: PARTY<BR>
-   15: DECORATOR<BR>
-   16: BIRTHDAY PARTY
-   <BR> 17: STAGE DECORATOR<BR>
-   18: KITTY PARTY<BR>
-   19: SEMINAR <BR>
-   20: PRODUCT LAUNCH<BR>
+   <BR>    <H1> 36: CIVIL LAWYER <BR>
+   37: COPERATE<BR>
+   38: CRIMINAL<BR>
+   39: CONSULTATION<BR>
+   40: LIFE INSURANCE
+   <BR> 41: BUSSINESS<BR>
+   42: GOLD<BR>
+   43: TRAVEL <BR>
+   44: PROJECT MANAGEMENT<BR>
+    45: ADVERTISEMENT<BR>
   </H1>
    
    
@@ -142,4 +143,4 @@ Category ID: <select name="list2">
 </form>
 </body>
 </html>
-
+<jsp:include page="footer.jsp"></jsp:include></center>

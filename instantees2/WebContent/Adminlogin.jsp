@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Delete Panel</title>
 </head>
 		
 		<div id="messageDiv" style="display: none;"></div>
@@ -54,14 +54,14 @@
  <form action="login" method="post"><h2>
      
    <div>
-   <label for="login">Email</label>
+   <label for="login">Email</label>  
    <input type="text" name="email" value="">
    </div>
    <div>
    <label for="password">Password</label>
-   <input type="password" id="password" value="">
+   <input type="password" name="password" value="">
    </div>
-   <input type="button" value="Log In" /> </form>
+   <input type="submit" value="Log In" /> </form>
 
 </CENTER>
 </body>

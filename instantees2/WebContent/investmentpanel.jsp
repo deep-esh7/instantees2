@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+<center><jsp:include page="header2.jsp"></jsp:include><%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
@@ -109,7 +109,7 @@ Category ID: <select name="list2">
   <option value="33">33</option>
   <option  value="34">34</option>
   <option  value="35">35</option>
-  <option  value="36">36</option>
+ 
    
         
 </select><br>
@@ -119,15 +119,14 @@ Category ID: <select name="list2">
   
    <center><font color="red">PLEASE ENTER DATA ACCORDING TO CATEGORY ID:
    
-   <BR>    <H1> 12: EVENT PLANNING <BR>
-   13: EVENT MANAGEMENT<BR>
-   14: PARTY<BR>
-   15: DECORATOR<BR>
-   16: BIRTHDAY PARTY
-   <BR> 17: STAGE DECORATOR<BR>
-   18: KITTY PARTY<BR>
-   19: SEMINAR <BR>
-   20: PRODUCT LAUNCH<BR>
+   <BR>    <H1> 29: INSURACE<BR>
+   30: TAXATION<BR>
+   31: WORKERS<BR>
+   32: CONSULTATION<BR>
+   33: LOANS<BR>
+   34: TRAVELS
+   <BR> 35: PARTY PLANNERS<BR>
+   
   </H1>
    
    
@@ -136,4 +135,4 @@ Category ID: <select name="list2">
 </form>
 </body>
 </html>
-
+<jsp:include page="footer.jsp"></jsp:include>/center>

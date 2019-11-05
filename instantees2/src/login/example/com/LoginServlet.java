@@ -12,6 +12,7 @@ import javax.servlet.http.HttpSession;
 
 import login.example.com.LoginService;
 @WebServlet("/login")
+
 public class LoginServlet extends HttpServlet {
 
 	LoginService service = null;
