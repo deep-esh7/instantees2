@@ -1,4 +1,4 @@
- <jsp:include page="header2.jsp"></jsp:include>
+<CENTER><jsp:include page="header2.jsp"></jsp:include>
  <%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql"%>
     <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%> 
 <!DOCTYPE html>
@@ -137,4 +137,4 @@ ${table.nameofclient}
 <script src="./scriptss/main.js"></script>
 <jsp:include page="footer.jsp"></jsp:include>
 </body>
-</html>
+</html></CENTER>

@@ -11,6 +11,8 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import com.example.catagorypanel.categoryeducation2;
+
+import com.example.catagorypanel.EmailUtility;
 @WebServlet("/education")
 
 public class categoryeducation extends HttpServlet {
@@ -35,6 +37,32 @@ public class categoryeducation extends HttpServlet {
 		String imagelink3 = request.getParameter("imagelink3");
 		String catagory = request.getParameter("list");
 		String subcid = request.getParameter("list2");
+		String recipient= request.getParameter("emailofclient");
+		
+		
+		String subject = "Congrats! "+name+" Has Been Posted Successfully";
+		String content = "Thank You For Posting Your Free Ad! We Will Make This Available On Our Website For Free Till 7 Days! Enjoy Our Traffic!";
+
+		
+		try {
+			EmailUtility.sendEmail("smtp.gmail.com", "587", "instanteesofficial@gmail.com", "7011112666", recipient, subject,
+					content);
+			
+		} catch (Exception ex) {
+			ex.printStackTrace();
+			ex.getMessage();
+		}
+		
+
+		try {
+			EmailUtility2.sendEmail("smtp.gmail.com", "587", "instanteesofficial@gmail.com", "7011112666", "instanteesofficial@gmail.com", "A New Ad Is Posted With The Following Details" +name+"",
+					""+name+" "+phone+" "+email+" "+address+" In Catagory "+catagory+"");
+			
+		} catch (Exception ex) {
+			ex.printStackTrace();
+			ex.getMessage();
+		}
+		
 		
 		System.out.println(subcid);
 System.out.println(catagory);

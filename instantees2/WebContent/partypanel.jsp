@@ -1,4 +1,4 @@
-<center><jsp:include page="header2.jsp"></jsp:include><%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+<center><%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
@@ -135,4 +135,4 @@ Category ID: <select name="list2">
 </form>
 </body>
 </html>
-<jsp:include page="footer.jsp"></jsp:include></center>
+</center>
