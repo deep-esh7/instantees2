@@ -110,11 +110,11 @@ img.emoji {
   right: -6%;
   transform: translate(-50%, -50%); }</style>
 <body><div class="containr"> <div class="row">
-<img src="./images/header.png" width=100% style="margin-top: -10px; margin-left: 0px; margin-right: -20px;"><div class="forheader">  <button type="button" class="btn btn-danger">Become A Professional</button>
+<img src="./images/header.png" width=100% style="margin-top: -10px; margin-left: 0px; margin-right: -20px;"><div class="forheader"> 
 
- <a href="#login_form" id="login_pop"><button type="button" class="btn btn-danger">Login</button></a>
+ <a href="./panel.jsp"><button type="button" class="btn btn-danger">Post Free AD!</button></a>
 
- <a href="#register_form" id="login_pop"><button type="button" class="btn btn-danger">Register</button></a>
+ <a href="#register_form" id="login_pop"><button type="button" class="btn btn-danger">Become A Professional</button></a>
 </div>
 </div></div>
 
