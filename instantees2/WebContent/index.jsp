@@ -15,7 +15,7 @@
 <jsp:include page="testimonals.jsp"></jsp:include>
 <jsp:include page="footer.jsp"></jsp:include>
 <jsp:include page="login.jsp"></jsp:include>
-<jsp:include page="register.jsp"></jsp:include>
+<jsp:include page="professional.jsp"></jsp:include>
 
 </body>
 </html>

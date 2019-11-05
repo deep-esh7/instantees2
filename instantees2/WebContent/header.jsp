@@ -114,7 +114,7 @@ img.emoji {
 
  <a href="./panel.jsp"><button type="button" class="btn btn-danger">Post Free AD!</button></a>
 
- <a href="#register_form" id="login_pop"><button type="button" class="btn btn-danger">Become A Professional</button></a>
+ <a href="#professional_form" id="login_pop"><button type="button" class="btn btn-danger">Become A Professional</button></a>
 </div>
 </div></div>
 
