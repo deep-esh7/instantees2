@@ -2,18 +2,13 @@
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
-<head><meta name="description" content="JSP Projects offering and providing services of Highway &amp; Road Construction, Power Transmission Lines, Substations &amp; Distribution, Real Estate Development Company India.Road Construction Contractors"/>
-<link rel="canonical" href="http://jspprojects.com/" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Civil &amp; Highway Road Construction Contractor, Power Transmission Substation Company, JSP Projects" />
-<meta property="og:description" content="JSP Projects offering and providing services of Highway &amp; Road Construction, Power Transmission Lines, Substations &amp; Distribution, Real Estate Development Company India.Road Construction Contractors" />
-<meta property="og:url" content="http://jspprojects.com/" />
+<head><meta name="description" content="Instantees.in : We Are For You!"/>
+
+<meta property="og:description" content="Instantees.in" />
+<meta property="og:url" content="http://instantees.in/" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="JSP Projects offering and providing services of Highway &amp; Road Construction, Power Transmission Lines, Substations &amp; Distribution, Real Estate Development Company India.Road Construction Contractors" />
-<meta name="twitter:title" content="Civil &amp; Highway Road Construction Contractor, Power Transmission Substation Company, JSP Projects" />
-<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/jspprojects.com\/","name":"","potentialAction":{"@type":"SearchAction","target":"http:\/\/jspprojects.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<!-- / Yoast SEO plugin. -->
+
+
 
 <link rel='dns-prefetch' href='//s.w.org' />
 		<script type="text/javascript">

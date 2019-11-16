@@ -119,8 +119,9 @@ ${table.nameofclient}
             <div class="row mt-3">
       
             </div>
-            <div class="row mt-3">
-                <div class="col-sm-4"><button type="button" class="btn btn-danger">CONTACT NOW!</button>
+                 <div class="row mt-3">
+                <div class="col-sm-4"><a href="tel:${table.phoneofclient}"><button type="button" class="btn btn-danger">CALL</button></a>
+                </div> <div class="col-sm-4"><a href="mailto:${table.emailofclient}"><button type="button" class="btn btn-danger">EMAIL</button></a>
                 </div>
               </div>
           </div>
